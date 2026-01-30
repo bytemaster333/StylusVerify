@@ -16,7 +16,7 @@ In the WASM-based blockchain world, verifying that the on-chain bytecode matches
 
 ## 🔗 Live Demo
 
-Try the active simulation here:
+Try the active simulation here: https://stylus-verify.vercel.app/
 
 ## 🏗 Architecture (The Vision)
 
